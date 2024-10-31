@@ -67,11 +67,11 @@ Reach out with any questions or ideas:
 ![Python](https://img.shields.io/badge/Python-3.x-brightgreen)
 ![MIT License](https://img.shields.io/badge/License-MIT-blue)
 
-![Animation](https://i.gifer.com/5TMy.gif)
-
 🎉 Thank you for visiting!
 
 Happy Coding! 😊
+
+![Animation](https://i.gifer.com/5TMy.gif)
 
 
 
