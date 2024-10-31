@@ -68,7 +68,7 @@ Reach out with any questions or ideas:
 ![MIT License](https://img.shields.io/badge/License-MIT-blue)
 
 
-![Example Animation](https://media.giphy.com/media/3oEjI6SIIHBdR3W8G4/giphy.gif)
+![Example Animation]([https://media.giphy.com/media/3oEjI6SIIHBdR3W8G4/giphy.gif](https://media3.giphy.com/media/MT5UUV1d4CXE2A37Dg/giphy.webp?cid=790b7611ai1ihg75xe97ca64jmdj1ggpok9u9pblb5eqdkyg&ep=v1_gifs_search&rid=giphy.webp&ct=g))
 
 🎉 Thank you for visiting!
 Happy Coding! 😊
