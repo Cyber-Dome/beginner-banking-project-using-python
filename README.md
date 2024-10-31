@@ -71,7 +71,7 @@ Reach out with any questions or ideas:
 
 🎉 Thank you for visiting!
 Happy Coding! 😊
-[![Animation Preview](https://i.gifer.com/5TMy.mp4)](https://i.gifer.com/5TMy.mp4)
+![Animation](https://gifer.com/en/5TMy.gif) 
 
 
 
